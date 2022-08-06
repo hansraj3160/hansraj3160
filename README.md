@@ -276,15 +276,3 @@
 [![](https://github-readme-stats.vercel.app/api?username=hansraj3160&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/hansraj3160)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=hansraj3160&theme=material-palenight)](https://github.com/hansraj3160)
 </div>
-
-----
-
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
-
-------
-Credit: [Elanza-48](https://github.com/hansraj3160)
-
-Last Edited on: 09/09/2021
