@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
-- 👯 I’m looking to collaborate on **Spring Framework**
+- 👯 I’m looking to collaborate on **Flutter Framework**
 
 - 🤝 I’m looking for help with **Backend Design**
 
 - 👨‍💻 All of my projects are available [@hansraj3160](github.com/hansraj3160)
 
-- 💬 Ask me about **System Designs and Philosophy 😆**
+- 💬 Ask me about **Flutter  😆**
 
 - ⚡ Fun fact **Coding is a passion and not profession.**
 
@@ -24,20 +24,29 @@
 
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
 
-<iframe src="https://giphy.com/embed/USV0ym3bVWQJJmNu3N" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N">via GIPHY</a></p>
 
 <p align="center">
   <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>
 </p>
 
-<p align="center">
-  <img style="width:26rem; height:auto" src="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N"/>
-</p>
+
 
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
+      alt="c"/>
+  </a>
+    <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"
+      alt="c"/>
+  </a>
+   <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"
+      alt="c"/>
+  </a>
+    <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"
       alt="c"/>
   </a>
   <a href="https://www.java.com" target="_blank"> 
@@ -106,22 +115,14 @@
   <a href="https://hibernate.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white" alt="hibernate " /> 
   </a>
-    <a href="https://spring.io/" target="_blank"> 
-      <img src="https://img.shields.io/badge/spring%20IOC-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="spring" /> 
-  </a>
-  <a href="https://spring.io/" target="_blank"> 
-    <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="spring Boot" /> 
-  </a>
+
   <a href="https://graphql.org" target="_blank">
     <img src="https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
   </a>
   <a href="https://kubernetes.io" target="_blank"> 
     <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
   </a>
-  <a href="https://www.nginx.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white" 
-      alt="nginx"/> 
-  </a> 
+
 </p>
 
 <h3 align="center">Database</h3>
@@ -134,6 +135,10 @@
     <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"
       alt="redis"/>
   </a>
+    <a href="https://www.mongodb.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"
+      alt="mongodb"/> 
+  </a> 
   <a href="https://www.sqlite.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"
       alt="sqlite"/> 
@@ -142,6 +147,7 @@
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
       alt="mongodb"/> 
   </a> 
+  
 </p>
 
 <h3 align="center">Cloud & Hosting:</h3>
@@ -218,7 +224,17 @@
 </p>
 
 ----
-
+<div align="center">
+<h3 align="center">Apps on Store</h3>
+     <a href="https://play.google.com/store/apps/dev?id=7703305844118303242" target="_blank"> 
+    <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="PlayStore"/>
+  </a> 
+   <a href="https://apps.apple.com/us/app/frontier-crypto-defi-wallet/id1482380988" target="_blank"> 
+    <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="PlayStore"/>
+  </a>
+ </div>
+           
+----
 <h3 align="center">Connect with me</h3>
 
 <div style="margin-top:10px" align="center">
@@ -271,6 +287,10 @@
 ----
 
 <div align="center">
+                 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hansraj3160&theme=vue"/>
+
+
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=hansraj3160&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/hansraj3160)
